@@ -1,0 +1,5 @@
+time_slot,total_trips,avg_fare,avg_duration_min,total_revenue
+Off-peak,5132448,18.52,15.4,142878078.0
+Evening rush,1776030,17.21,14.6,49484051.0
+Morning rush,903060,17.58,15.0,23434342.0
+Late night,736206,18.95,14.1,21398768.0

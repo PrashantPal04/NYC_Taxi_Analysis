@@ -1,0 +1,16 @@
+zone_name,borough,pickups,dropoffs,supply_gap,gap_pct
+JFK Airport,Queens,394313,74637,319676,81.1
+LaGuardia Airport,Queens,269150,87547,181603,67.5
+Penn Station/Madison Sq West,Manhattan,325806,190113,135693,41.6
+Midtown Center,Manhattan,437892,331588,106304,24.3
+Midtown East,Manhattan,316669,241787,74882,23.6
+Times Sq/Theatre District,Manhattan,316078,266625,49453,15.6
+Upper East Side South,Manhattan,436529,390274,46255,10.6
+Greenwich Village South,Manhattan,130468,87592,42876,32.9
+West Village,Manhattan,192325,154312,38013,19.8
+Central Park,Manhattan,127920,90958,36962,28.9
+Midtown North,Manhattan,257402,220994,36408,14.1
+Lincoln Square East,Manhattan,283190,249113,34077,12.0
+Union Sq,Manhattan,246083,217459,28624,11.6
+East Elmhurst,Queens,28005,3465,24540,87.6
+Garment District,Manhattan,134435,110510,23925,17.8

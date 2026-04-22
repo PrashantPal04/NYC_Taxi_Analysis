@@ -1,0 +1,7 @@
+borough,total_trips,total_revenue,avg_fare,avg_distance
+Manhattan,7688264,178491623.0,14.62,2.25
+Queens,744474,54826558.0,53.35,12.65
+Brooklyn,73652,2390912.0,28.85,6.07
+Bronx,18700,740653.0,36.39,9.45
+EWR,211,19554.0,75.64,4.17
+Staten Island,192,6070.0,13.7,7.33
